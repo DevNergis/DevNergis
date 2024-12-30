@@ -21,6 +21,9 @@
 
 ## 내가 만든 도구
 - [Extensions](https://github.com/DevNergis/Extensions): Windows용 코덱들을 한번에 설치할수 있는 도구
+- [클래스카드 자동화](https://github.com/DevNergis/classcard_hack): 포크해 개조한 버전
+- [waifu.pics-downloader](https://github.com/DevNergis/waifu.pics-downloader):https://waifu.pics 에서 AI 학습용 이미지들을 받아오는 도구
+- 
 
 ### TMI
 - 이름의 뜻은 Nergis(터키어) -> 수선화 입니다.
