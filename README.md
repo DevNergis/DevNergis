@@ -3,22 +3,24 @@
 - 👀 I’m interested in ... Rust
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 🏢 I'm part of the sqlare and textcord team.
+- 📫 How to reach me [Signal](https://signal.me/#eu/gFAqJT5rwCosKhWH156r-YiU2XuxQi4a035OOGfOpTxCpyG6QalJb4TXqBu16i8s), [Telegram](https://t.me/Dev_Nergis)
+- 🏢 I'm part of the sqlare team.
 
 ---
 
-안녕하세요! 저는 고등학생인 Dev_Nergis 입니다!
-평소에는 그냥 Nergis 라고 불러 주세요~
-(한국어로 수선화!)
+안녕하세요. 저는 고등학생 개발자 `Nergis`에요.
+부르실떄에는 `데브` 또는 `수선화` 혹은 `선화`로 불러 주세요.
 
 ---
 
-## 내가만든 서비스
+## 나의 프로젝트
 - [sqlr.kr](https://sqlr.kr): 링크단축
-- [API](https://api.nergis.dev): 잡탕 api 서비스 - 쓸만한건 급식이랑 파일 api정도 일듯
-- [FileFlower](https://file.nergis.dev): 위에 있는 api를 활용한 파일 공유 서비스 -> 특징으로는 크기제한 없음(그대신 유효기한 1년적용), IPFS지원 (블록체인 파일 P2P 기술)
+- [API](https://api.nergis.dev): 여러가지 기능이 있는 API 서비스 `현재 작동안함`
+- [FileFlower](https://file.nergis.dev): 위의 API서비스를 이용한 파일 공유 서비스 `현재 작동안함`
 - 아이디어 추천은 이메일로
+
+## 내가 만든 도구
+- [Extensions](https://github.com/DevNergis/Extensions): Windows용 코덱들을 한번에 설치할수 있는 도구
 
 ### TMI
 - 이름의 뜻은 Nergis(터키어) -> 수선화 입니다.
