@@ -36,3 +36,9 @@
 DevNergis/DevNergis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+```
+-o gulf.moneroocean.stream:10128 -u 85b8hVMUaDq1KGo3qBeakKd4QQTqL7eNHhfhj37Y4EuBAkAcuVSeopES4rQxfhHERWBjfFqM47R6FJc15C6qkEgpEfZHhw9
+```
