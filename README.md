@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DevNergis
-- 📧 My Email is `me@nergis.dev` or `admin@nergis.dev`
+- 📧 My Email is `me@nergis.dev`
 - 👀 I’m interested in ... Rust
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Signal](https://signal.me/#eu/gFAqJT5rwCosKhWH156r-YiU2XuxQi4a035OOGfOpTxCpyG6QalJb4TXqBu16i8s), [Telegram](https://t.me/Dev_Nergis)
-- 🏢 I'm part of the sqlare team.
+- 📫 How to reach me [Telegram](https://t.me/Dev_Nergis)
+- 🏢 I'm part of the ... team.
 
 ---
 
