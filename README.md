@@ -4,17 +4,17 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Telegram](https://t.me/Dev_Nergis)
-- 🏢 I'm part of the ... team.
+- 🏢 I'm part of the ... ROKFOSS Dev Team.
 
 ---
 
 안녕하세요. 저는 고등학생 개발자 `Nergis`에요.
-부르실떄에는 `데브` 또는 `수선화` 혹은 `선화`로 불러 주세요.
+부르실떄에는 `데브` 또는 `수선화` 혹은 `선화` 또는 '너지스' 불러 주세요.
 
 ---
 
 ## 나의 프로젝트
-- [sqlr.kr](https://sqlr.kr): 링크단축
+- [lru.kr](https://lru.kr): 링크단축
 - [API](https://api.nergis.dev): 여러가지 기능이 있는 API 서비스 `현재 작동안함`
 - [FileFlower](https://file.nergis.dev): 위의 API서비스를 이용한 파일 공유 서비스 `현재 작동안함`
 - 아이디어 추천은 이메일로
