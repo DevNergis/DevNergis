@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DevNergis
 - 📧 My Email is `me@nergis.dev`
-- 👀 I’m interested in Rust.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ELIV.
-- 📫 How to reach me [Telegram](https://t.me/Dev_Nergis).
-- 🏢 I'm part of the ROKFOSS Dev Team.
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on ELIV
+- 📫 How to reach me [Telegram](https://t.me/Dev_Nergis)
+- 🏢 I'm part of the ROKFOSS Dev Team
 
 ---
 
