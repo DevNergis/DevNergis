@@ -14,7 +14,7 @@
 ---
 
 ## 나의 프로젝트
-- [lru.kr](https://lru.kr): 링크단축
+- [lru.kr](https://lru.kr): 링크 단축
 - [API](https://api.nergis.dev): 여러가지 기능이 있는 API 서비스 `현재 작동안함`
 - [FileFlower](https://file.nergis.dev): 위의 API서비스를 이용한 파일 공유 서비스 `현재 작동안함`
 - 아이디어 추천은 이메일로
